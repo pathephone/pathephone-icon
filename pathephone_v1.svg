@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="pathephone_v1.svg"
+   inkscape:export-filename="/home/negamaxi/Projects/pathephone/pathephone-icon/pathephone_v1.png"
+   inkscape:export-xdpi="3072"
+   inkscape:export-ydpi="3072">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.732211"
+     inkscape:cx="26.154372"
+     inkscape:cy="27.572046"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="906"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <g
+       id="g912"
+       transform="translate(0.09576998,-0.06713257)">
+      <circle
+         r="6.0100632"
+         cy="290.71713"
+         cx="6.25423"
+         id="path887"
+         style="fill:#ff1e50;fill-opacity:1;stroke:none;stroke-width:0.83147532;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path880"
+         d="M 9.692261,286.73747 8.163823,292.4414 H 5.3759948 l 0.772107,-2.88181 H 5.0387741 l -1.5135733,5.64877 a 5.2619102,5.2619102 0 0 0 2.7290127,0.77068 5.2619102,5.2619102 0 0 0 5.2619165,-5.26191 5.2619102,5.2619102 0 0 0 -1.823869,-3.97966 z"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.98060721;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path878"
+         d="m 8.983294,286.2259 -1.4465139,5.39832 H 6.4408646 l 0.7722418,-2.8818 H 4.4117305 l -1.5954628,5.9544 a 5.2619102,5.2619102 0 0 0 0.7089331,0.51154 l 1.5135733,-5.64877 h 1.1093277 l -0.772107,2.88181 H 8.163823 l 1.528438,-5.70393 A 5.2619102,5.2619102 0 0 0 8.983294,286.2259 Z"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.98060721;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path855"
+         d="m 6.2542135,285.45522 a 5.2619102,5.2619102 0 0 0 -5.26188199,5.26191 5.2619102,5.2619102 0 0 0 1.82393619,3.97969 l 1.5954628,-5.9544 h 2.8013759 l -0.7722418,2.8818 H 7.5367801 L 8.983294,286.2259 a 5.2619102,5.2619102 0 0 0 -2.7290805,-0.77068 z"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.98060721;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
