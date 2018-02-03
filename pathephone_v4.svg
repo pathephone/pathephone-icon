@@ -85,6 +85,38 @@
        x2="4.6964607"
        y2="293.37128"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter981">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood971" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite973" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur975" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset977" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite979" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -115,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,7 +157,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <circle
-       style="fill:url(#linearGradient849);fill-opacity:1;fill-rule:nonzero;stroke-width:0.21847081"
+       style="fill:url(#linearGradient849);fill-opacity:1;fill-rule:nonzero;stroke-width:0.21847081;filter:url(#filter981)"
        id="path19"
        cx="6.3499999"
        cy="290.64999"
